@@ -1,0 +1,7 @@
+id = "zed-cool-icons"
+name = "Zed Cool Icons"
+version = "0.0.1"
+schema_version = 1
+authors = ["Kelvin Wachira <abkelvinwachira@gmail.com>"]
+description = "Zed Cool icons theme for Zed"
+repository = "https://github.com/K-wachira/zed-cool-icons"
