@@ -1,7 +1,7 @@
-id = "zed-cool-icons"
-name = "Zed Cool Icons"
+id = "virgo-icons"
+name = "Virgo Icons"
 version = "0.0.1"
 schema_version = 1
 authors = ["Kelvin Wachira <abkelvinwachira@gmail.com>"]
-description = "Zed Cool icons theme for Zed"
-repository = "https://github.com/K-wachira/zed-cool-icons"
+description = "Virgo icons theme for Zed"
+repository = "https://github.com/K-wachira/virgo-icons"

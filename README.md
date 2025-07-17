@@ -1,6 +1,6 @@
 # VSCode Cool Icons Theme for Zed Editor
 
-VSCode Great Icons for [Zed](https://zed.dev/).
+Virgo Icons for [Zed](https://zed.dev/).
 
 The icons are sourced from:
 
